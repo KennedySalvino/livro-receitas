@@ -1,4 +1,4 @@
-# Lasanha de Frango :chic
+# Lasanha de Frango :chicken:
 
 ### Ingredientes
 
