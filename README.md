@@ -5,4 +5,4 @@
 Olá! Bem vindo ao meu livro de receitas teste.
 
 - Lasanha de frango
-- Carne com Batatas
+- Carne com Batatas Fritas
